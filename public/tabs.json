@@ -1,20 +1,32 @@
 [
   {
-    "id": "dummyTable",
-    "title": "Dummy Table",
+    "id": "table",
+    "title": "Table",
     "order": 1,
-    "path": "DummyTable.tsx"
+    "path": "Table.tsx"
   },
   {
-    "id": "dummyChart",
-    "title": "Dummy Chart",
+    "id": "chart",
+    "title": "Chart",
     "order": 2,
-    "path": "DummyChart.tsx"
+    "path": "Chart.tsx"
   },
   {
-    "id": "dummyList",
-    "title": "Dummy List",
+    "id": "list",
+    "title": "List",
     "order": 0,
-    "path": "DummyList.tsx"
+    "path": "List.tsx"
+  },
+  {
+    "id": "https://www.linkedin.com/in/andrew-shmorhun-850a76209/",
+    "title": "Linked In",
+    "order": 3,
+    "path": "/"
+  },
+  {
+    "id": "",
+    "title": "Git Hub Repository",
+    "order": 4,
+    "path": "/"
   }
 ]
