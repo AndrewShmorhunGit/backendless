@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://AndrewShmorhunGit.github.io/backendless/",
+  "homepage": "https://andrewshmorhungit.github.io/backendless/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
