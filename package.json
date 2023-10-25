@@ -8,7 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "type-check": "tsc --noEmit",
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d dist -r git@github.com:AndrewShmorhunGit/backendless.git",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
@@ -33,6 +33,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/AndrewShmorhunGit/backendless.git"
+    "url": "git@github.com:AndrewShmorhunGit/backendless.git"
   }
 }

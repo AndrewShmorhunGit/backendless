@@ -9,7 +9,7 @@ import {
 import { Tab } from "./types";
 import { Spinner } from "./components/Spinner";
 
-export function App() {
+export default function App() {
   const [isTabs, setTabs] = React.useState<Tab[]>([]);
 
   const fetchWithDelay = (url: string, delay = 1000): Promise<Response> => {
